@@ -14,7 +14,9 @@ Live tracker of my open-source contributions across the AI / Agent ecosystem.
 | 4 | [pola-rs/polars#29555](https://github.com/pola-rs/polars/pull/29555) | str.zfill counts characters instead of utf-8 bytes | 🔎 In review |
 | 5 | [pola-rs/polars#29556](https://github.com/pola-rs/polars/pull/29556) | str.to_titlecase matches Python title casing (İ, ß) | 🔎 In review |
 | 6 | [agentscope-ai/agentscope-java#3304](https://github.com/agentscope-ai/agentscope-java/pull/3304) | Emit renamed enum values in tool schemas | 🔎 In review |
-| 7 | [wagga40/Zircolite#154](https://github.com/wagga40/Zircolite/pull/154) | Escape file names in Rich markup output | 🔎 In review |
+| 8 | [ArcadeData/arcadedb#8475](https://github.com/ArcadeData/arcadedb/pull/8475) | Scalar left operand of CONTAINSANY silently matched nothing | 🤖 CI 21 pass |
+| 9 | [lingdojo/kana-dojo#31077..31084](https://github.com/lingdojo/kana-dojo/pull/31077) | Community content entries (proverb, fact, mistake, etiquette, dialect, theme) | 🎁 GFI channel |
+| 7 | [wagga40/Zircolite#154](https://github.com/wagga40/Zircolite/pull/154) | Escape file names in Rich markup output | ❌ Closed — upstream fixed it independently (see #158) |
 
 ## Diagnosis-first workflow
 
